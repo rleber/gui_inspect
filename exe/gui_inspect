@@ -1,0 +1,18 @@
+#!/usr/bin/env ruby
+
+# Main executable for gui_inspect script
+
+require 'rubygems'
+require 'bundler/setup'
+require_relative '../lib/env'
+if Environment.non_production?
+  require 'pry'
+  require 'pry-stack_explorer'
+  require 'pry-byebug'
+end
+
+require_relative '../lib/gui_inspect'
+
+if __FILE__ == $0
+  GUIInspect::CLI.go(ARGV)
+end

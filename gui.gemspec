@@ -1,10 +1,10 @@
 # frozen_string_literal: true
 
-require_relative "lib/gui/version"
+require_relative "lib/gui_inspect/version"
 
 Gem::Specification.new do |spec|
   spec.name = "gui_inspect"
-  spec.version = Gui::VERSION
+  spec.version = GUIInspect::VERSION
   spec.authors = ["Richard LeBer"]
   spec.email = ["richard.leber@gmail.com"]
 
