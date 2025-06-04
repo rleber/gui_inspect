@@ -3,7 +3,7 @@
 require_relative "lib/gui/version"
 
 Gem::Specification.new do |spec|
-  spec.name = "gui"
+  spec.name = "gui_inspect"
   spec.version = Gui::VERSION
   spec.authors = ["Richard LeBer"]
   spec.email = ["richard.leber@gmail.com"]
