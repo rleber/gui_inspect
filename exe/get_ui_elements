@@ -61,13 +61,8 @@ def main(args)
       *)
       uiElems
     on error errMsg number errorNumber
-      displayError(errMsg, errorNumber)
-      uiElems
+      "Error: " & errMsg & " (#" & (errorNumber as text) & ")"
     end try
-
-    on displayError(theMessage, theErrorNumber)
-      display dialog ("The script encountered a problem: #" & theErrorNumber as text) & " " & theMessage
-    end displayError
   END_OF_APPLESCRIPT
 
   file = Tempfile.new('get_ui_elements')
@@ -77,6 +72,10 @@ def main(args)
     `osascript #{file.path}`
   ensure
     file.unlink # Release the temporary script file
+  end
+  if output =~ /^Error/
+    $stderr.puts output.chomp
+    exit 1
   end
   puts output.gsub(/,\s+/,"\n")
 end
