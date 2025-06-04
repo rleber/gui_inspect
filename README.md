@@ -1,4 +1,4 @@
-# Gui
+# GUI Inspect
 
 Simple methods to inspect the GUI elements of a running MacOS application.
 
@@ -7,19 +7,21 @@ Simple methods to inspect the GUI elements of a running MacOS application.
 Install the gem and add to the application's Gemfile by executing:
 
 ```bash
-bundle add UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+bundle gui_inspect
 ```
 
 If bundler is not being used to manage dependencies, install the gem by executing:
 
 ```bash
-gem install UPDATE_WITH_YOUR_GEM_NAME_IMMEDIATELY_AFTER_RELEASE_TO_RUBYGEMS_ORG
+gem install gui_inspect
 ```
 
 ## Usage
 
-> get_ui_elements '<application name>' >path/to/file # Generates a list of the GUI elements of the    
-                                                     # application in its current state
+> gui_inspect processes                                   # Generates a list of current active processes
+
+> gui_inspect elements '<application name>' >path/to/file # Generates a list of the GUI elements of
+                                                          # this application in its current state
 
 ## Development
 
