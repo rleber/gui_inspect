@@ -1,13 +1,19 @@
 PATH
   remote: .
   specs:
-    gui (0.1.0)
+    gui_inspect (0.1.0)
 
 GEM
   remote: https://rubygems.org/
   specs:
     ast (2.4.3)
+    awesome_print (1.9.2)
+    binding_of_caller (1.0.1)
+      debug_inspector (>= 1.2.0)
+    byebug (12.0.0)
+    coderay (1.1.3)
     date (3.4.1)
+    debug_inspector (1.2.0)
     diff-lcs (1.6.2)
     erb (5.0.1)
     io-console (0.8.0)
@@ -18,6 +24,8 @@ GEM
     json (2.12.2)
     language_server-protocol (3.17.0.5)
     lint_roller (1.1.0)
+    method_source (1.1.0)
+    ostruct (0.6.1)
     parallel (1.27.0)
     parser (3.3.8.0)
       ast (~> 2.4.1)
@@ -26,6 +34,18 @@ GEM
       prettyprint
     prettyprint (0.2.0)
     prism (1.4.0)
+    pry (0.15.2)
+      coderay (~> 1.1)
+      method_source (~> 1.0)
+    pry-byebug (3.11.0)
+      byebug (~> 12.0)
+      pry (>= 0.13, < 0.16)
+    pry-doc (1.5.0)
+      pry (~> 0.11)
+      yard (~> 0.9.11)
+    pry-stack_explorer (0.6.1)
+      binding_of_caller (~> 1.0)
+      pry (~> 0.13)
     psych (5.2.6)
       date
       stringio
@@ -68,21 +88,31 @@ GEM
     ruby-progressbar (1.13.0)
     stringio (3.1.7)
     tempfile (0.3.1)
+    thor (1.3.2)
     unicode-display_width (3.1.4)
       unicode-emoji (~> 4.0, >= 4.0.4)
     unicode-emoji (4.0.4)
+    yard (0.9.37)
 
 PLATFORMS
   arm64-darwin-24
   ruby
 
 DEPENDENCIES
-  gui!
+  awesome_print
+  gui_inspect!
   irb
+  ostruct
+  pry
+  pry-byebug
+  pry-doc
+  pry-stack_explorer
   rake (~> 13.0)
+  reline
   rspec (~> 3.0)
   rubocop (~> 1.21)
   tempfile
+  thor
 
 BUNDLED WITH
    2.6.9
