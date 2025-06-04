@@ -1,0 +1,58 @@
+#!/usr/bin/env ruby
+
+require 'tempfile'
+
+def help
+  app_name = File.basename(__FILE__)
+  help_text = <<-END_HELP
+    |  #{app_name}:
+    |
+    |  Get information about active GUI processes
+    |
+    |  Usage:
+    |    #{app_name}
+    |
+    |  #{app_name} gathers a list of all processes and writes it to $stdout
+  END_HELP
+  puts help_text.split("\n").map { |line| line[/^\s*\|\s\s(.*)$/, 1]}.join("\n")
+end
+
+def main(args)
+  if args.size == 1
+    arg = args.first
+    downcase_arg = arg.downcase 
+    if downcase_arg == '--help' ||  downcase_arg == '-h' ||  downcase_arg == 'help'
+      help
+      exit
+    end
+  end
+
+  applescript = <<-END_OF_APPLESCRIPT
+    try
+      tell application "System Events"
+        set listOfProcesses to (name of every process where background only is false)
+      end tell
+      listOfProcesses
+    on error errMsg number errorNumber
+      "Error: " & errMsg & " (#" & (errorNumber as text) & ")"
+    end try
+  END_OF_APPLESCRIPT
+
+  file = Tempfile.new('get_ui_elements')
+  output = begin
+    file.write(applescript)
+    file.close
+    `osascript #{file.path}`
+  ensure
+    file.unlink # Release the temporary script file
+  end
+  if output =~ /^Error/
+    $stderr.puts output.chomp
+    exit 1
+  end
+  puts output.gsub(/,\s+/,"\n")
+end
+
+if __FILE__ == $0
+  main(ARGV)
+end
