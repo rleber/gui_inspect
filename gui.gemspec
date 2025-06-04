@@ -9,7 +9,7 @@ Gem::Specification.new do |spec|
   spec.email = ["richard.leber@gmail.com"]
 
   spec.summary = "Simple methods to inspect the GUI elements of a running MacOS application."
-  spec.homepage = "TODO: Put your gem's website or public repo URL here."
+  spec.homepage = "https://github.com/rleber/gui"
   spec.license = "MIT"
   spec.required_ruby_version = ">= 3.1.0"
 
