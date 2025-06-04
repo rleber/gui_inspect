@@ -1,0 +1,679 @@
+window template.lbx of application process P-touch Editor
+scroll area 1 of window template.lbx of application process P-touch Editor
+static text Printer of scroll area 1 of window template.lbx of application process P-touch Editor
+menu button Brother PT-P750W(10.0.0.142) of scroll area 1 of window template.lbx of application process P-touch Editor
+image 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+static text Print Media of scroll area 1 of window template.lbx of application process P-touch Editor
+image 2 of scroll area 1 of window template.lbx of application process P-touch Editor
+pop up button 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button Check Media of scroll area 1 of window template.lbx of application process P-touch Editor
+static text Length of scroll area 1 of window template.lbx of application process P-touch Editor
+image 3 of scroll area 1 of window template.lbx of application process P-touch Editor
+text field 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+incrementor 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 1 of incrementor 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 2 of incrementor 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+checkbox Set Length of scroll area 1 of window template.lbx of application process P-touch Editor
+static text Margin of scroll area 1 of window template.lbx of application process P-touch Editor
+text field 2 of scroll area 1 of window template.lbx of application process P-touch Editor
+incrementor 2 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 1 of incrementor 2 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 2 of incrementor 2 of scroll area 1 of window template.lbx of application process P-touch Editor
+static text Direction of scroll area 1 of window template.lbx of application process P-touch Editor
+radio button Landscape of scroll area 1 of window template.lbx of application process P-touch Editor
+radio button Portrait of scroll area 1 of window template.lbx of application process P-touch Editor
+static text Color of scroll area 1 of window template.lbx of application process P-touch Editor
+pop up button 2 of scroll area 1 of window template.lbx of application process P-touch Editor
+scroll bar 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+value indicator 1 of scroll bar 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 1 of scroll bar 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 2 of scroll bar 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 3 of scroll bar 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button 4 of scroll bar 1 of scroll area 1 of window template.lbx of application process P-touch Editor
+button Buy labels of window template.lbx of application process P-touch Editor
+splitter group 1 of window template.lbx of application process P-touch Editor
+scroll area 1 of splitter group 1 of window template.lbx of application process P-touch Editor
+scroll bar 1 of scroll area 1 of splitter group 1 of window template.lbx of application process P-touch Editor
+scroll bar 2 of scroll area 1 of splitter group 1 of window template.lbx of application process P-touch Editor
+static text inch of splitter group 1 of window template.lbx of application process P-touch Editor
+splitter 1 of splitter group 1 of window template.lbx of application process P-touch Editor
+static text Drag & drop database file here of splitter group 1 of window template.lbx of application process P-touch Editor
+group 1 of window template.lbx of application process P-touch Editor
+static text No Selected of group 1 of window template.lbx of application process P-touch Editor
+static text Add Object of group 1 of window template.lbx of application process P-touch Editor
+radio group 1 of window template.lbx of application process P-touch Editor
+radio button 1 of radio group 1 of window template.lbx of application process P-touch Editor
+toolbar 1 of window template.lbx of application process P-touch Editor
+menu button View of toolbar 1 of window template.lbx of application process P-touch Editor
+menu button 1 of menu button View of toolbar 1 of window template.lbx of application process P-touch Editor
+static text View of menu button View of toolbar 1 of window template.lbx of application process P-touch Editor
+button Print of toolbar 1 of window template.lbx of application process P-touch Editor
+group 1 of toolbar 1 of window template.lbx of application process P-touch Editor
+group Zoom of group 1 of toolbar 1 of window template.lbx of application process P-touch Editor
+button 1 of group Zoom of group 1 of toolbar 1 of window template.lbx of application process P-touch Editor
+button 2 of group Zoom of group 1 of toolbar 1 of window template.lbx of application process P-touch Editor
+button 3 of group Zoom of group 1 of toolbar 1 of window template.lbx of application process P-touch Editor
+static text Zoom of group 1 of toolbar 1 of window template.lbx of application process P-touch Editor
+button Text Box of toolbar 1 of window template.lbx of application process P-touch Editor
+button Frame of toolbar 1 of window template.lbx of application process P-touch Editor
+button Image of toolbar 1 of window template.lbx of application process P-touch Editor
+button Symbol of toolbar 1 of window template.lbx of application process P-touch Editor
+button Clip Art of toolbar 1 of window template.lbx of application process P-touch Editor
+menu button Shape of toolbar 1 of window template.lbx of application process P-touch Editor
+menu button 1 of menu button Shape of toolbar 1 of window template.lbx of application process P-touch Editor
+static text Shape of menu button Shape of toolbar 1 of window template.lbx of application process P-touch Editor
+button Table of toolbar 1 of window template.lbx of application process P-touch Editor
+menu button Bar Code of toolbar 1 of window template.lbx of application process P-touch Editor
+menu button 1 of menu button Bar Code of toolbar 1 of window template.lbx of application process P-touch Editor
+static text Bar Code of menu button Bar Code of toolbar 1 of window template.lbx of application process P-touch Editor
+button Database of toolbar 1 of window template.lbx of application process P-touch Editor
+button 2 of window template.lbx of application process P-touch Editor
+button 3 of window template.lbx of application process P-touch Editor
+group 1 of button 3 of window template.lbx of application process P-touch Editor
+group 1 of group 1 of button 3 of window template.lbx of application process P-touch Editor
+button 4 of window template.lbx of application process P-touch Editor
+image template.lbx of window template.lbx of application process P-touch Editor
+menu button 1 of window template.lbx of application process P-touch Editor
+static text template.lbx of window template.lbx of application process P-touch Editor
+menu bar 1 of application process P-touch Editor
+menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item About This Mac of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item System Information of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item System Settings…
+1 update of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item App Store of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 6 of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Applications of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Brother P-touch Editor.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Brother P-touch Editor.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Calendar.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Calendar.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Google Chrome.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Google Chrome.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Messages.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Messages.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Microsoft PowerPoint.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Microsoft PowerPoint.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Microsoft Teams.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Microsoft Teams.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Script Editor.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Script Editor.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item System Settings.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “System Settings.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item TextEdit.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “TextEdit.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Visual Studio Code.app of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Visual Studio Code.app” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 22 of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Documents of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item .gitignore of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “.gitignore” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item activerecord-8.0.2 of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “activerecord-8.0.2” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item activesupport-8.0.2 of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “activesupport-8.0.2” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item env of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “env” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item exe of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “exe” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item gui of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “gui” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item lego of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “lego” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item test_rails of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “test_rails” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item ui_elements.txt of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “ui_elements.txt” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Window Analysis Tool for System Events v1.50.kmmacros.txt of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Show “Window Analysis Tool for System Events v1.50.kmmacros.txt” in Finder of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 44 of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Servers of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Common of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Development of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Finance of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Macintosh HD of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Operations of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Operations of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Programs of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 53 of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Clear Menu of menu Recent Items of menu item Recent Items of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 8 of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Force Quit… of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Force Quit Brother P-touch Editor of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 11 of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Sleep of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Restart… of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Restart of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Shut Down… of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Shut Down of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 17 of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Lock Screen of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Log Out Richard LeBer… of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item Log Out Richard LeBer of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu item 21 of menu Apple of menu bar item Apple of menu bar 1 of application process P-touch Editor
+menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item About Brother P-touch Editor of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item 2 of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item Settings… of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item 4 of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item Hide Brother P-touch Editor of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item Hide Others of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item Show All of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item 8 of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu item Quit Brother P-touch Editor of menu Brother P-touch Editor of menu bar item Brother P-touch Editor of menu bar 1 of application process P-touch Editor
+menu bar item File of menu bar 1 of application process P-touch Editor
+menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item New… of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Open… of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item template.lbx of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 3395.lbx of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 3395 2x4 Tile Inverted.lbx —  Part Labels with Icons of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 3395 2x4 Tile Inverted copy.lbx of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 3395 2x4 Tile Inverted copy 2.lbx of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 3395 2x4 Tile Inverted.lbx —  Part Icons of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 3395 2x4 Tile Inverted.lbx —  Part Names of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 10202.lbx of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 35459.lbx of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 10 of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Clear Menu of menu Open Recent of menu item Open Recent of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 4 of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Close of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Close All of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Save of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Save As… of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Duplicate of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Rename… of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Move To… of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Export of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu Export of menu item Export of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item BLF of menu Export of menu item Export of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item PDZ of menu Export of menu item Export of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 13 of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item iCloud Drive of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item iCloud Sharing of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item AirDrop of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Messages of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Notes of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Freeform of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Simulator of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Reminders of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Dropbox Transfer of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 11 of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item More… of menu Share of menu item Share of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item 15 of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu item Print… of menu File of menu bar item File of menu bar 1 of application process P-touch Editor
+menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Undo of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Redo of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Cut of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Copy of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Paste of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Delete of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Select All of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item 9 of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Show Writing Tools of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item 2 of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Proofread of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Rewrite of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item 5 of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Make Friendly of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Make Professional of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Make Concise of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item 9 of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Summarize of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Create Key Points of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Make List of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Make Table of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item 14 of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Compose… of menu Writing Tools of menu item Writing Tools of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item AutoFill of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu AutoFill of menu item AutoFill of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Contact… of menu AutoFill of menu item AutoFill of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Passwords… of menu AutoFill of menu item AutoFill of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Start Dictation of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu item Emoji & Symbols of menu Edit of menu bar item Edit of menu bar 1 of application process P-touch Editor
+menu bar item View of menu bar 1 of application process P-touch Editor
+menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Show Tab Bar of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Show All Tabs of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item 3 of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Label Inspector of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Object Inspector of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item 6 of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Hide Rulers of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item 8 of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Zoom of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu Zoom of menu item Zoom of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Zoom In of menu Zoom of menu item Zoom of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Zoom Out of menu Zoom of menu item Zoom of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Actual Size of menu Zoom of menu item Zoom of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item 10 of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Enter Full Screen of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item 12 of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Hide Toolbar of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu item Customize Toolbar… of menu View of menu bar item View of menu bar 1 of application process P-touch Editor
+menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Text Box of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Arrange Text of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Arrange Text of menu item Arrange Text of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Straight Line of menu Arrange Text of menu item Arrange Text of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Broken Line of menu Arrange Text of menu item Arrange Text of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Circle of menu Arrange Text of menu item Arrange Text of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Arc of menu Arrange Text of menu item Arrange Text of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item CODE39 of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item CODE128 of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item UCC / EAN128(GS1-128)  of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item ITF(I-2/5)  of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item CODABAR(NW-7) of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item UPC-A of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item UPC-E of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item JAN13 (EAN13) of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item JAN8(EAN8) of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item ISBN-2(EAN13 AddOn2) of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item ISBN-5(EAN13 AddOn5) of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item POSTNET of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Intelligent Mail Barcode of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Laser Bar Code of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item GS1 DataBar(RSS) of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item PDF417 of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item QR Code/Micro QR Code of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Data Matrix of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item MaxiCode of menu Bar Code of menu item Bar Code of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Frame of menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Simple of menu Frame of menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Thin Frames of menu Frame of menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Thick Frames of menu Frame of menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Special 1 of menu Frame of menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Special 2 of menu Frame of menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Special 3 of menu Frame of menu item Frame of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Table of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 1 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 2 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 3 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 4 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item PT Symbol 1 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item PT Symbol 2 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Symbol of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Webdings of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Wingdings of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Wingdings 2 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Wingdings 3 of menu Symbol of menu item Symbol of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Image of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Emoji of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Music / Electronics of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Closets / Storage of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Vehicle / Travel of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Home of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Sports / Games of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Animals of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Baby / Kids of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Seasons of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Events / Special Occasions of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Decorative / Craft of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Garden of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Family of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_School of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Office of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Astrology of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Foods / Beverages of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Kitchen of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Shapes / Arrows of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Signs of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item DP_Garage / Tools of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Office of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Stationery  of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Hospital of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Vehicles and Buildings of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Christmas of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Seasons and Holidays of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Laboratory of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Insects of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Animals of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Birds and Fishes of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Dinosaurs of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Flowers of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Fruits of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Food (Ethnic and Ingredients) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Food (Snacks and Specialty Foods) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Sports of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Hobbies of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Travelling and Outdoors of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Videos of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Stores (Restaurants) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Stores (Others) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Occupations of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item People of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Toys of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Interiors of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item School of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Tools and Equipment of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Country Style of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Weather and Celestial Bodies of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Directions of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Signs1 (guidance markings) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Signs2 (other guidance markings) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Signs3 (prohibitive) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Signs4 (warnings) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Signs5 (cautions) of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Electrical / Electronic of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Audio Visual of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Template parts 1 of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Template parts 2 of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item General Shapes1 of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item General Shapes2 of menu Clip Art of menu item Clip Art of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Date/Time of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Date/Time of menu item Date/Time of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item 2025/06/03 of menu Date/Time of menu item Date/Time of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item 21:32 of menu Date/Time of menu item Date/Time of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Calendar of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Calendar of menu item Calendar of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Monthly Format of menu Calendar of menu item Calendar of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Monthly Single Line Format of menu Calendar of menu item Calendar of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu Shape of menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Rectangle of menu Shape of menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Rounded Rectangle of menu Shape of menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Oval of menu Shape of menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Polygon of menu Shape of menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item 5 of menu Shape of menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu item Line of menu Shape of menu item Shape of menu Insert of menu bar item Insert of menu bar 1 of application process P-touch Editor
+menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Bold of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Italic of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Underline of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Double Underline of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Strikethrough of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Double Strikethrough of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Outline of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Shadow Light of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Shadow of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Surround of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Frameout of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Invert Text Colors of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 13 of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Larger of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Smaller of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 16 of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Character Spacing of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Character Spacing of menu item Character Spacing of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Use Default of menu Character Spacing of menu item Character Spacing of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Tighten of menu Character Spacing of menu item Character Spacing of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Loosen of menu Character Spacing of menu item Character Spacing of menu Font of menu item Font of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Text of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Text of menu item Text of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Align Left of menu Text of menu item Text of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Align Center of menu Text of menu item Text of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Align Right of menu Text of menu item Text of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Justify of menu Text of menu item Text of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Insert Row Above of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Insert Column to the Left of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Delete Row of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Delete Column of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 6 of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Distribute Height of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Distribute Width of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 9 of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Merge Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Unmerge Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 12 of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Text of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Arrange Text of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Arrange Text of menu item Arrange Text of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Straight Line of menu Arrange Text of menu item Arrange Text of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Broken Line of menu Arrange Text of menu item Arrange Text of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Circle of menu Arrange Text of menu item Arrange Text of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Arc of menu Arrange Text of menu item Arrange Text of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item CODE39 of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item CODE128 of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item UCC/EAN-128(GS1-128) of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item ITF(I-2/5)  of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item CODABAR(NW-7) of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item UPC-A of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item UPC-E of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item JAN13 (EAN13) of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item JAN8(EAN8) of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item ISBN-2(EAN13 AddOn2) of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item ISBN-5(EAN13 AddOn5) of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item POSTNET of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Intelligent Mail Barcode of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Laser Bar Code of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item GS1 DataBar(RSS) of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item PDF417 of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item QR Code/Micro QR Code of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Data Matrix of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item MaxiCode of menu Bar Code of menu item Bar Code of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 1 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 2 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 3 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item PT Dingbats 4 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item PT Symbol 1 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item PT Symbol 2 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Symbol of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Webdings of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Wingdings of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Wingdings 2 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Wingdings 3 of menu Symbol of menu item Symbol of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Image of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Emoji of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Music / Electronics of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Closets / Storage of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Vehicle / Travel of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Home of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Sports / Games of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Animals of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Baby / Kids of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Seasons of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Events / Special Occasions of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Decorative / Craft of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Garden of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Family of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_School of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Office of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Astrology of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Foods / Beverages of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Kitchen of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Shapes / Arrows of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Signs of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item DP_Garage / Tools of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Office of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Stationery  of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Hospital of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Vehicles and Buildings of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Christmas of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Seasons and Holidays of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Laboratory of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Insects of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Animals of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Birds and Fishes of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Dinosaurs of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Flowers of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Fruits of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Food (Ethnic and Ingredients) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Food (Snacks and Specialty Foods) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Sports of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Hobbies of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Travelling and Outdoors of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Videos of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Stores (Restaurants) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Stores (Others) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Occupations of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item People of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Toys of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Interiors of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item School of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Tools and Equipment of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Country Style of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Weather and Celestial Bodies of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Directions of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Signs1 (guidance markings) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Signs2 (other guidance markings) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Signs3 (prohibitive) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Signs4 (warnings) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Signs5 (cautions) of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Electrical / Electronic of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Audio Visual of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Template parts 1 of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Template parts 2 of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item General Shapes1 of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item General Shapes2 of menu Clip Art of menu item Clip Art of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Date/Time of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu Date/Time of menu item Date/Time of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 2025/06/03 of menu Date/Time of menu item Date/Time of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 21:32 of menu Date/Time of menu item Date/Time of menu Cells of menu item Cells of menu Table of menu item Table of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item 5 of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu item Numbering of menu Format of menu bar item Format of menu bar 1 of application process P-touch Editor
+menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Group of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Ungroup of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Bring Forward of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Bring to Front of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Send Backward of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Send to Back of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item 8 of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Left of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Center of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Right of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item 4 of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Top of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Middle of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Bottom of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item 8 of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Fit to Print Area of menu Align of menu item Align of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item 10 of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Rotate 90° Left of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Rotate 90° Right of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item 13 of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Change Size of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu Change Size of menu item Change Size of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Larger of menu Change Size of menu item Change Size of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Smaller of menu Change Size of menu item Change Size of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Maximum of menu Change Size of menu item Change Size of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Maximum with Ratio of menu Change Size of menu item Change Size of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu item Align to Guides of menu Layout of menu bar item Layout of menu bar 1 of application process P-touch Editor
+menu bar item Database of menu bar 1 of application process P-touch Editor
+menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Open of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Close of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Search of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item 5 of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item First Record of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Last Record of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item 8 of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Ascending Order of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu Ascending Order of menu item Ascending Order of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Descending Order of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu Descending Order of menu item Descending Order of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item 11 of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Merge Fields... of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu item Connect Fields... of menu Database of menu bar item Database of menu bar 1 of application process P-touch Editor
+menu bar item Address Book of menu bar 1 of application process P-touch Editor
+menu Address Book of menu bar item Address Book of menu bar 1 of application process P-touch Editor
+menu item Insert of menu Address Book of menu bar item Address Book of menu bar 1 of application process P-touch Editor
+menu item Open of menu Address Book of menu bar item Address Book of menu bar 1 of application process P-touch Editor
+menu item 3 of menu Address Book of menu bar item Address Book of menu bar 1 of application process P-touch Editor
+menu item Merge Fields... of menu Address Book of menu bar item Address Book of menu bar 1 of application process P-touch Editor
+menu bar item Window of menu bar 1 of application process P-touch Editor
+menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Minimize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Minimize All of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Zoom of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Zoom All of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Fill of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Center of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 7 of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Halves of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Left of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Right of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Top of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Bottom of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 6 of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Quarters of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Top Left of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Top Right of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Bottom Left of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Bottom Right of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 12 of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Arrange of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Left & Right of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Left & Quarters of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Right & Left of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Right & Quarters of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Top & Bottom of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Top & Quarters of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Bottom & Top of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Bottom & Quarters of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Quarters of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 23 of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Return to Previous Size of menu Move & Resize of menu item Move & Resize of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Full Screen Tile of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu Full Screen Tile of menu item Full Screen Tile of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Left of Screen of menu Full Screen Tile of menu item Full Screen Tile of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Right of Screen of menu Full Screen Tile of menu item Full Screen Tile of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 10 of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Remove Window from Set of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 12 of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Move to Built-in Retina Display of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Move to R240HY of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Move to iPad (7) of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 16 of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Bring All to Front of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Arrange in Front of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 19 of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Show Previous Tab of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Show Next Tab of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Move Tab to New Window of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item Merge All Windows of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 24 of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item 25 of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu item template.lbx of menu Window of menu bar item Window of menu bar 1 of application process P-touch Editor
+menu bar item Help of menu bar 1 of application process P-touch Editor
+menu Help of menu bar item Help of menu bar 1 of application process P-touch Editor
+menu item P-touch Editor Help of menu Help of menu bar item Help of menu bar 1 of application process P-touch Editor
+menu item Software Information Scan of menu Help of menu bar item Help of menu bar 1 of application process P-touch Editor
+menu item Troubleshooting  of menu Help of menu bar item Help of menu bar 1 of application process P-touch Editor
+menu item 4 of menu Help of menu bar item Help of menu bar 1 of application process P-touch Editor
+menu item Brother support website of menu Help of menu bar item Help of menu bar 1 of application process P-touch Editor
